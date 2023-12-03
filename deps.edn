@@ -1,0 +1,6 @@
+{:deps
+ {org.clojure/clojure {:mvn/version "1.11.1"}
+  tools.macro/tools.macro {:local/root "/home/oskar/code/tools.macro"}
+  clojure.utils/clojure-utils {:local/root "/home/oskar/code/clojure-utils"}
+  com.rpl/specter {:local/root "/home/oskar/code/specter"}
+  org.clojure/tools.namespace {:mvn/version "1.4.4"}}}
